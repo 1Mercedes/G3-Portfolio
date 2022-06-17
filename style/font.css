@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "JosefinSans";
+    src: url(../fonts/JosefinSans/JosefinSans-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "JosefinSans";
+    src: url(../fonts/JosefinSans/JosefinSans-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "JosefinSans";
+    src: url(../fonts/JosefinSans/JosefinSans-BoldItalic.ttf);
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "JosefinSans";
+    src: url(../fonts/JosefinSans/JosefinSans-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Unna";
+    src: url(../fonts/Unna/Unna-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Unna";
+    src: url(../fonts/Unna/Unna-BoldItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
